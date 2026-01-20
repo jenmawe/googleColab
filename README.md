@@ -1,4 +1,4 @@
-Here are my Google Colab jupyter notebooks. The first one was to search Shared Print Retention Information. The other one was to experiment with the OCLC Knowledge Base API.
+Here are my Google Colab jupyter notebooks. The first one was to search Shared Print Retention Information. The other one was to experiment with the OCLC Knowledge Base API. These Google Colab notebooks were created with the help of Co-Pilot.
 
 ## OCLC_KB_API_ISBN
 You will need a csv file where the first line of that csv is isbn. Then there is an ISBN on each line.
